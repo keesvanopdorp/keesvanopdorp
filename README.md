@@ -1,7 +1,12 @@
 #### Latest project: [RCE-Control](https://github.com/keesvanopdorp/rce-control)
 
 # Introduction
+
 Hi my name is Kees van Opdorp and I'm a verry passionated about programming. You can read more about my projects and the my skills in the text below.
+
+## How to contact me
+
+You can contact me by sending me a message on linkedin or by sending me a email (preferred way).
 
 ## Featured Projects
 
