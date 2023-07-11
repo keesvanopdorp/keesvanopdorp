@@ -23,11 +23,15 @@ You can contact me by sending me a message on linkedin or by sending me a email 
 - SQL
 - HTML / CSS
 - Python
+- Java
+- Rust
   
-##Frameworks: 
+## Frameworks: 
 - React
 - Laravel
 - Next.js
+- Nestjs
+- Spring (boot)
   
 ## Technologies:
 - Docker
