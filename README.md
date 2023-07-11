@@ -2,11 +2,11 @@
 
 # Introduction
 
-Hi my name is Kees van Opdorp and I'm a verry passionated about programming. You can read more about my projects and the my skills in the text below.
+Hi my name is Kees van Opdorp. I am passionate about coding, because if I can think it, I can make it a reality. You can read more about my projects and my coding skills in the text below.
 
 ## How to contact me
 
-You can contact me by sending me a message on linkedin or by sending me a email (preferred way).
+You can contact me by sending me a message on linkedin or by sending me an email (preferred way).
 
 ## Featured Projects
 
